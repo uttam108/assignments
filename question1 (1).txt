@@ -1,0 +1,26 @@
+           			                                                                      //ZOOM ASSIGNMENT - TRESS\\
+
+1)find out the traversal nodes for figure2 only the node names to be written?
+
+ans)1.)Depth First Traversal:
+		>Inorder:DBEPEAFC
+		>Preorder;ABDEPECF
+		>Postorder:DEPEBCFA
+      
+
+        2.)Breadth first (or) Level order Traversal:
+		ABCDEFPE
+
+
+	________________________	
+
+                 |	     A                     |
+                 |	   /    \                   |
+                 |	B         C               |
+                 |               /	    \      /                |  
+                 |              D      E  F                | 
+                 |	    /                        |
+                 |	  P                         |
+                 |	     \                      |
+                 |	        E                   |
+                 __________________________ 
